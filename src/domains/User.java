@@ -1,7 +1,7 @@
 package domains;
 
 /**
- * Created by Bhisan on 8/19/2016.
+ * Created by Umesh on 8/19/2016.
  */
 public class User {
     int id;
